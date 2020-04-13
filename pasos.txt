@@ -14,11 +14,11 @@ git status
 
 git add .  (agrega todos los elementos al stage)
 
-git commint -m "Primer commit"
+git commit -m "Primer commit"
 
 ----- aquí estaría ya todo hecho a nivel local..
 -----
-> para subir a hithub habría que copiar el comando que hay en la web de github
+> para subir a github habría que copiar el comando que hay en la web de github
 
 
 
